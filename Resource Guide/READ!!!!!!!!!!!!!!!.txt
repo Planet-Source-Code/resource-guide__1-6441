@@ -1,0 +1,9 @@
+The *.rs file in this directory is the one I used in making the guide
+you can rename it edit it and basically do anything you want with it.
+
+To edit it I recommend using Notepad as it's quick and easy to use
+
+Anyway enjoy the code and the guide
+
+Andy McCurtin
+andy_mccurtin@yahoo.com
